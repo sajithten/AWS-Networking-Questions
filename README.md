@@ -48,3 +48,54 @@ How does ARP work?
 
 Can you explain a situation in your current work where you had to dive deep to solve a problem? (Behavioral question)
 
+
+-----------------------------------------------------------
+
+Explain the Linux booting process in detail.
+
+What are the benefits of a multiprocessor system?
+
+Explain RAID structure in an operating system.
+
+Explain different levels of RAID configuration.
+
+Which commands will you use to check CPU utilization?
+
+Explain the paging concept.
+
+What are system calls?
+
+Explain about fork.
+
+What is the difference between a multiprocessing and a multitasking system?
+
+What is a scheduling algorithm? Name different types of scheduling algorithms.
+
+How do ping and traceroute commands work?
+
+What is the difference between paging and segmentation?
+
+Explain the importance of I/O devices in a Linux system.
+
+What is a thread in an operating system?
+
+How do we check free disk space in Linux?
+
+What is cache memory? Explain different types of cache and what is a cache hit and cache miss.
+
+Explain the virtual memory concept.
+
+What will you do if your device is heating up very quickly? What troubleshooting steps will you take?
+
+What is a zombie process in a Linux environment?
+
+Explain thrashing.
+
+Suppose you are transferring media over FTP and the transfer rate is very slow. What could cause this and how would you troubleshoot it?
+
+Explain the netstat command.
+
+Explain the iptables command.
+
+What are some booting problems that can occur while a Linux system is booting and what troubleshooting steps will you take to resolve each of those?
+
