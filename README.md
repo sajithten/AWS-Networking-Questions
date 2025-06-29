@@ -1,4 +1,4 @@
-What happens in the backend when you type amazon.com in the browser?
+* What happens in the backend when you type amazon.com in the browser?
 
 Explain different types of DNS queries.
 
